@@ -1,0 +1,259 @@
+
+Last Call for IETF LLC Board Director Nominations.
+
+Time is almost up to get in the candidate pool!
+
+The Ask!
+
+   The 2018-19 Nominating Committee (NomCom) is seeking nominations for the IETF
+   LLC Board Director positions (three open slots) until October 31, 2018.
+
+Current Status:
+
+    The following have accepted a nomination (Filling 3 slots):
+
+    * Barry Leiba
+    * Bret Jordan
+    * Dan Harkins
+    * David Ward
+    * Edward McNair
+    * Fred Baker
+    * Glenn Deen
+    * Hago Dafalla
+    * Jason Livingood
+    * Kathleen Moriarty
+    * Maja Andjelkovic
+    * Michael Richardson
+    * Nalini Elkins
+    * Peter Van Roste
+    * Russ Housley
+    * Shauna Turner
+    * Terry Manderson
+    
+    Please keep up the momentum and search your professional networks for more
+    qualified nominees!
+
+Background Information:
+
+    The IETF Administration LLC has been created to house the administration
+    of the IETF.  Detailed information about the LLC and the interim LLC board
+    can be found at https://www.ietf.org/llc/ and
+    https://www.ietf.org/about/groups/llc-board/ respectively.
+
+Overview of the IETF Administration LLC:
+   The IETF Administration LLC ("IETF LLC") provides a corporate legal
+   framework for facilitating current and future activities related to the
+   Internet Engineering Task Force as well as its sister organizations, the
+   Internet Architecture Board ("IAB") and the Internet Research Task Force
+   ("IRTF"). IETF LLC exists to provide administrative support to these
+   organizations. Its responsibilities are:
+      * Operations.
+         IETF LLC is responsible for supporting the ongoing operations of the
+         IETF, including the development and publication of open Internet standards,
+         holding meetings and non-meeting operations.
+      * Finances.
+         IETF LLC is responsible for managing the IETF's finances and budget.
+      * Fundraising.  IETF LLC is responsible for raising money on behalf of
+         the IETF.
+      * Compliance.
+         IETF LLC is responsible for establishing and enforcing policies to
+         ensure compliance with applicable laws, regulations, and rules.
+
+Desired Experience:
+
+   This is the summary of the required expertise for LLC Board Director.
+
+   IETF Administration LLC Board Director Role
+
+   Overview of the IETF Administration LLC
+
+      The IETF Administration LLC ("IETF LLC") provides a corporate legal
+      framework for facilitating current and future activities related to the
+      Internet Engineering Task Force as well as its sister organizations, the
+      Internet Architecture Board ("IAB") and the Internet Research Task Force
+      ("IRTF").  IETF LLC exists to provide administrative support to these
+      organizations. Its responsibilities are: 
+         * Operations. IETF LLC is responsible for supporting the ongoing
+           operations of the IETF, including meetings and non-meeting activities. 
+         * Finances. IETF LLC is responsible for managing the IETF's finances
+           and budget. 
+         * Fundraising. IETF LLC is responsible for raising money on behalf
+           of the IETF. 
+         * Compliance. IETF LLC is responsible for establishing and enforcing
+           policies to ensure compliance with applicable laws, regulations,
+           and rules. 
+
+   Relation to the Internet Society
+
+      IETF LLC is organized as a “disregarded entity” of the Internet Society
+      ("ISOC"), which means it operates as a branch or division of ISOC for
+      tax purposes. ISOC is a US501(c)(3) not-for-profit organization founded
+      in 1992 that supports and promotes the development of the Internet as a
+      global technical infrastructure, a resource to enrich people’s lives,
+      and a force for good in society.
+
+   Establishment of the IETF LLC
+
+      IETF LLC was established in August 2018. It will initially be managed
+      by an interim board of directors until the first full board of directors
+      is seated in early 2019, which depends upon NomCom appointments. 
+
+   IETF LLC Board Overview
+
+      Candidates are sought for the role of board director on the first full
+      board. All board directors are unpaid volunteers.
+
+      The IETF LLC Board of Directors is responsible for setting broad strategic
+      direction for IETF LLC on administrative, legal, financial and other
+      non-technical areas. The board will be responsible for hiring and
+      supervising an Executive Director. The Executive Director will be
+      responsible for managing the day-to-day affairs of IETF LLC, including
+      hiring staff to carry out the LLC’s responsibilities.
+
+      The board’s other responsibilities include adopting an annual budget,
+      adopting employee benefit plans, consulting the IETF community on matters
+      as appropriate, and approving entering into agreements that that meet a
+      significant materiality threshold. Ideally, some board directors will be
+      positioned to play an active role in helping to secure financial resources
+      for the IETF and to leverage personal connections that help the staff
+      identify and solicit potential funders. The board’s work is high-level
+      and strategic; the board is expected to delegate management of
+      day-to-day activities and related decision-making to staff. 
+
+   Candidate Experience
+
+      Ideal candidates for the role of board director should have prior
+      professional experience with: 
+         * Executive management, compensation, and performance review; 
+         * Financial management and budgeting on a seven-figure scale; 
+         * Working with legal counsel to address organization-related legal
+           and compliance issues; 
+         * Fundraising in the non-profit sector; 
+         * Working with geographically diverse colleagues and populations;
+           and/or 
+         * Interpersonal skills necessary to work within a distributed team
+           focused on enabling the IETF to fulfill its mission. 
+
+       Preference may be given to candidates with prior non-profit or corporate
+       board experience and/or prior experience with the IETF or other similar
+       technical or standards development organizations. 
+
+       It seems unlikely each candidate will bring all of this experience
+       individually. So the NomCom may wish to focus on a balance among the
+       desired qualifications across the three final appointees, as a combined
+       slate with complimentary skills and experience. 
+
+   Candidate Requirements
+
+       Requirements for the role of board director include: 
+         * Taking on legal and fiduciary responsibility for IETF LLC. 
+         * Traveling to board meetings multiple times per year. The number of
+           meetings per year, their locations, decisions about co-locating them
+           with IETF meetings, and availability of travel funding will be
+           decided at the board’s discretion with input from the IETF community. 
+         * Attending regular conference calls, potentially in different time
+           zones outside of normal business hours. 
+         * Preparing for board meetings and calls in advance and actively
+           participating inboard discussions. 
+         * Making heavy use of email and other online communications tools as
+           key means for advancing the work of the board and conversing with
+           staff and IETF participants. 
+         * Operating transparently and engaging openly with the IETF community
+           and the staff. 
+         * Acting in compliance with all applicable laws, regulations, and
+           board policies. 
+
+       In the board’s first year it is anticipated that board directors will
+       spend an average of four hours per week on the board’s work.
+
+   Initial IETF LLC Board Priorities
+
+       The initial priorities and key tasks of the IETF LLC Board are listed
+       in Section 9.1 of https://tools.ietf.org/html/draft-ietf-iasa2-struct. 
+
+Mechanics of Nomination:
+
+   Nominations may be made by selecting the Nominate link at the top of the 
+   NomCom 2018 home page, or by visiting the following URL: 
+
+   https://datatracker.ietf.org/nomcom/2018/nominate/ 
+
+   Note:  Nominations made using the web tool require an ietf.org datatracker
+   account. You can create a datatracker ietf.org account if you don't have one 
+   already by visiting the following URL: 
+   https://datatracker.ietf.org/accounts/create/
+
+   If you are unable to use the web form, nominations may instead be made by 
+   email to nomcom-18 at ietf dot org. If using email, please include the word 
+   "Nominate" in the Subject and indicate in the email who is being nominated, 
+   their email address (to confirm acceptance of the nomination), and the 
+   position for which you are making the nomination. If you are nominating 
+   someone other than yourself, please tell us if we may tell the nominee that 
+   you were the one who made the nomination. If you wish to nominate someone via 
+   email for more than one position, please use separate emails to do so. 
+
+   Self-nomination is welcome! 
+
+   Willing nominees will be asked to fill out a questionnaire specific to the 
+   position for which they are nominated. The questionnaires will be available 
+   on September 19, 2018 and have a submission deadline of November 14, 2018. 
+
+   NomCom 2018-19 will follow the policy for "Open Disclosure of Willing 
+   Nominees" described in BCP 10/RFC 7437. As stated in RFC 7437: "The list of 
+   nominees willing to be considered for positions under review in the current 
+   NomCom cycle is not confidential". Willing nominees for each position will be 
+   listed in a publicly accessible way, e.g., anyone with a datatracker account 
+   may access the lists. Additionally, the nomination form asks if we may share 
+   your own name with the nominee. In all other ways, the confidentiality 
+   requirements of BCP 10 remain in effect. All feedback and all NomCom 
+   deliberations will remain confidential and will not be disclosed. 
+
+   There is a field on the form you can mark in order to allow the NomCom to 
+   tell the nominee that you were the one who made the nomination. This defaults 
+   to “no” - so if you don't mark the field we won’t tell. 
+
+   In order to ensure time to collect sufficient community feedback about each 
+   of the willing nominees, nominations must be received by the NomCom on or 
+   before October 31, 2018. 
+
+Schedule (from: https://datatracker.ietf.org/nomcom/2018/)
+The work phase for LLC Board Director:
+
+ * Wednesday, August 23, 2018: NomCom Receives Guidance
+ * Wednesday, September 12, 2018: NomCom Call for nominations
+ * Wednesday, September 19, 2018: Questionnaires available for candidates
+ * Wednesday, October 31, 2018: Deadline for nominations
+ * November 3 to November 9, 2018: IETF 103 (Bangkok)
+    * @ Plenary Initiate Call for Community Feedback
+ * Wednesday, November 14, 2018: Nominee questionnaire deadline
+    * Start scheduling eInterviews and reviewing LLC Board Member questionnaires
+ * Wednesday, January 9, 2019: Deadline for community feedback
+ * Wednesday, January 16, 2019: Completed all LLC Board Member eInterviews
+ * Wednesday, February 13, 2019: The LLC Board Member deliberations and the
+   slate process completes and NomCom sends slate to confirming body.
+   (NomCom's aspirational date.)
+ * March 23-29, 2019: IETF 104 (Prague) NomCom reports
+
+Action!
+
+   Please submit your nominations as early as possible for the sake of your 
+   nominees.
+
+   Please be resourceful in identifying possible candidates for these
+   positions. 
+
+   More information is available by visiting the NomCom homepage: 
+
+   https://datatracker.ietf.org/nomcom/2018/
+
+   Please send suggestions and feedback to nomcom-18 at ietf dot org. 
+
+   Thank you for your help in identifying qualified nominees! 
+
+regards,
+-scott. 
+
+Scott Mansfield
+scott dot mansfield at ericsson dot com
+nomcom-chair-2018 at ietf dot org 
+

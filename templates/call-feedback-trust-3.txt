@@ -1,0 +1,48 @@
+Last Call for Community Feedback Requested on the IETF Trust Nominees
+
+The 2018-19 Nominating Committee has finalized the list of willing nominees for the positions open this cycle.
+
+NomCom will produce a slate of 3 with one individual for a one year term, one individual for a two year term, and one individual for a three year term.
+
+The desired experience guidance received by NomCom is here --> https://datatracker.ietf.org/nomcom/2018/expertise/#ietf-trust
+
+The deadline for community feedback for the IETF Trust is: 16 January 2019.
+
+IETF Trust Nominees:
+
+Bret Jordan
+Fred Baker
+Glenn Deen
+Iuniana Oprescu
+Joel Halpern
+Kathleen Moriarty
+Michael Richardson
+Nathalie Trenaman
+Paul Wouters
+Ted Hardie
+
+You can provide feedback using the following URL:
+https://datatracker.ietf.org/nomcom/2018/feedback/
+
+You may provide feedback using the web form there; it is secure.  All web feedback goes into the datatracker using asymmetric encryption, which is then decrypted by the NomCom members as they read it.  Your feedback can not be seen by the secretariat, the tools people, or any of the management.
+
+Your feedback through the web form is not anonymous when shown to NomCom members as you need an IETF login to provide it.
+
+If you want to give truly anonymous feedback, please contact one of the NomCom members that you trust directly, and ask him/her to relay the feedback anonymously to the NomCom.
+
+You can also submit feedback via email to nomcom-chair-2018 at ietf.org and I will enter it in the datatracker. One email per candidate, please. Please indicate if I should share your identity with the full NomCom.
+
+The positions to be filled and the desired expertise are found here:
+
+https://datatracker.ietf.org/nomcom/2018/
+
+Thank you so much for your feedback - we really value it and appreciate your time taken to submit it.
+
+
+regards,
+-scott. 
+
+Scott Mansfield
+scott dot mansfield at ericsson dot com
+nomcom-chair-2018 at ietf dot org
+

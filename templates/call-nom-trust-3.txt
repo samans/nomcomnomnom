@@ -1,0 +1,139 @@
+
+Third Call for IETF Trust Nominations
+
+We currently have three nominees, however, we need more!
+
+Important NOTE:  "The Trust is mostly a quiet organization, and being a trustee
+generally involves little work beyond quarterly online meetings."
+
+AND -- It is possible to be on the IETF Trust and also hold other IETF
+leadership positions!
+
+For more info:  https://datatracker.ietf.org/nomcom/2018/expertise/#ietf-trust 
+
+Current Status:
+
+    The following have accepted a nomination (Filling 3 slots):
+
+    * Glenn Deen
+    * Nathalie Trenaman
+    * Ted Hardie
+
+The Ask!
+
+   The 2018-19 Nominating Committee (NomCom) is seeking nominations for the IETF
+   Trust positions (three open slots) from now until November 28, 2018.
+
+   NOTE:  This is the call for nominations for the IETF Trust, the previous calls
+   for LLC Board Member and IETF Chair, IESG, and IAB are following their own
+   time frames.
+
+Background Information:
+
+   The purpose of the Internet Engineering Task Force (IETF) Trust is to
+   acquire, hold, maintain, and license certain existing and future
+   intellectual property and other property used in connection with the
+   administration of the IETF https://tools.ietf.org/rfc/rfc4371.txt [RFC4371].
+
+   For more information see the "Discussion of the IASA 2.0 Changes as They
+   Relate to the IETF Trust https://tools.ietf.org/html/draft-ietf-iasa2-trust-rationale-00
+   and Update to the Selection of Trustees for the IETF Trust
+   https://tools.ietf.org/html/draft-ietf-iasa2-trust-update-00.
+
+Desired Experience:
+
+   The Trust is mostly a quiet organization, and being a trustee generally
+   involves little work beyond quarterly online meetings. Trustees ideally
+   should be: 
+
+      * Familiar with copyright and trademark law.
+      * Familiar with the RFC publication process as described in RFC 6635
+        and related documents.
+      * Familiar with the Trust's copyright licenses and with RFCs 5377 and
+        5378.
+      * Willing to serve multiple terms as a trustee to provide continuity of
+        oversight.
+
+Mechanics of Nomination:
+
+   Nominations may be made by selecting the Nominate link at the top of the 
+   NomCom 2018 home page, or by visiting the following URL: 
+
+   https://datatracker.ietf.org/nomcom/2018/nominate/ 
+
+   Note:  Nominations made using the web tool require an ietf.org datatracker
+   account. You can create a datatracker ietf.org account if you don't have one 
+   already by visiting the following URL: 
+   https://datatracker.ietf.org/accounts/create/
+
+   If you are unable to use the web form, nominations may instead be made by 
+   email to nomcom-18 at ietf dot org. If using email, please include the word 
+   "Nominate" in the Subject and indicate in the email who is being nominated, 
+   their email address (to confirm acceptance of the nomination), and the 
+   position for which you are making the nomination. If you are nominating 
+   someone other than yourself, please tell us if we may tell the nominee that 
+   you were the one who made the nomination. If you wish to nominate someone via 
+   email for more than one position, please use separate emails to do so. 
+
+   Self-nomination is welcome! 
+
+   Willing nominees will be asked to fill out a questionnaire specific to the 
+   position for which they are nominated. The questionnaires will have a
+   submission deadline of December 5, 2018. 
+
+   NomCom 2018-19 will follow the policy for "Open Disclosure of Willing 
+   Nominees" described in BCP 10/RFC 7437. As stated in RFC 7437: "The list of 
+   nominees willing to be considered for positions under review in the current 
+   NomCom cycle is not confidential". Willing nominees for each position will be 
+   listed in a publicly accessible way, e.g., anyone with a datatracker account 
+   may access the lists. Additionally, the nomination form asks if we may share 
+   your own name with the nominee. In all other ways, the confidentiality 
+   requirements of BCP 10 remain in effect. All feedback and all NomCom 
+   deliberations will remain confidential and will not be disclosed. 
+
+   There is a field on the form you can mark in order to allow the NomCom to 
+   tell the nominee that you were the one who made the nomination. This defaults 
+   to “no” - so if you don't mark the field we won’t tell. 
+
+   In order to ensure time to collect sufficient community feedback about each 
+   of the willing nominees, nominations must be received by the NomCom on or 
+   before November 28, 2018. 
+
+Schedule from: https://datatracker.ietf.org/nomcom/2018/
+The work phase for IETF Trust:
+ * Monday, October 15, 2018: NomCom Receives Guidance
+ * Wednesday, October 17, 2018: NomCom Call for nominations (with job
+   descriptions and questionnaires available)
+ * Wednesday, November 28, 2018: Deadline for nominations
+ * Wednesday, December 5, 2018: Nominee questionnaire deadline
+ * Wednesday, December 5, 2018: Start scheduling eInterview
+ * Wednesday, January 16, 2019: Deadline for community feedback
+ * Wednesday, January 16, 2019: Completed all IETF Trust eInterviews
+ * Wednesday, February 13, 2019: The IETF Trust deliberations and the slate
+   process completes and NomCom sends slate to confirming body.
+   (NomCom's aspirational date.)
+ * March 23-29, 2019: IETF 104 (Prague) NomCom reports
+
+Action!
+
+   Please submit your nominations as early as possible for the sake of your 
+   nominees.  
+
+   Please be resourceful in identifying possible candidates for these
+   positions. 
+
+   More information is available by visiting the NomCom homepage: 
+
+   https://datatracker.ietf.org/nomcom/2018/
+
+   Please send suggestions and feedback to nomcom-18 at ietf dot org. 
+
+   Thank you for your help in identifying qualified nominees! 
+
+regards,
+-scott. 
+
+Scott Mansfield
+scott dot mansfield at ericsson dot com
+nomcom-chair-2018 at ietf dot org 
+

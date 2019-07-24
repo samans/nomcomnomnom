@@ -1,0 +1,183 @@
+
+Last Call for Nominations for IETF Chair, IESG, and IAB Positions.
+
+There is less than a week to get a name added to the pool of candidates!
+
+Nominations close on 30 September 2018!  Final push for nominations.
+
+The list of people that have accepted their nominations is included below.
+
+The Ask!
+
+The 2018-19 Nominating Committee (NomCom) opened the call for nominations on
+16 August 2018 and will close nominations on September 30, 2018.  The NomCom
+would like to express their gratitude for the response so far!  Keep up the
+momentum and continue to nominate high-quality candidates to be leaders in
+the IETF community.  This is your chance to ensure the NomCom has a strong 
+pool of nominees for the deliberation stage of the process.
+
+Who Has Been Nominated?
+
+Following is a snapshot of the nominees who have accepted their nominations
+(sorted by position and then alphabetical by first name):
+
+IAB Position:  (NomCom filling 6 slots)
+   * Behcet Sarikaya
+   * Ben Campbell
+   * Brian Haberman
+   * Donald Eastlake
+   * Gabriel Montenegro
+   * Jari Arkko
+   * Jeff Tantsura
+   * Joseph Hall
+   * Niels ten Oever
+   * Paul Hoffman
+   * Phillip Hallam-Baker
+   * Randy Bush
+   * Sarah Banks
+   * Spencer Dawkins
+   * Stephen Farrell
+   * Susan Hares
+   * Tom Herbert
+   * Tommy Pauly
+   * Wes Hardaker
+   * Young Lee
+   * Zhenbin Li
+
+IETF Chair (Gen AD) Position: (NomCom filling 1 slot)
+   * Aaron Falk
+   * Alissa Cooper
+
+ART AD Position: (NomCom filling 1 slot)
+   * Barry Leiba
+   * Ben Campbell
+
+INT AD Position: (NomCom filling 1 slot)
+   * Éric Vyncke
+   * Sheng Jiang
+
+Operations AD: (NomCom filling 1 slot)
+   * Warren Kumari
+
+Routing AD: (NomCom filling 2 slots)
+   * Alvaro Retana
+   * Deborah Brungard
+
+Security AD: (NomCom filling 1 slot)
+   * Daniel Migault
+   * Hannes Tschofenig
+   * Jim Schaad
+   * Leif Johansson
+   * Rob Austein
+
+Transport AD: (NomCom filling 1 slot)
+   * Magnus Westerlund
+
+The Details!
+
+The open positions being considered by this year's NomCom can be found at the
+end of this email and also on this year's NomCom website: 
+
+https://datatracker.ietf.org/nomcom/2018/ 
+
+Nominations may be made by selecting the Nominate link at the top of the 
+NomCom 2018 home page, or by visiting the following URL: 
+
+https://datatracker.ietf.org/nomcom/2018/nominate/ 
+
+Note:  Nominations made using the web tool require an ietf.org datatracker
+account. You can create a datatracker ietf.org account if you don't have one 
+already by visiting the following URL: 
+https://datatracker.ietf.org/accounts/create/
+
+If you are unable to use the web form, nominations may instead be made by 
+email to nomcom-18 at ietf dot org. If using email, please include the word 
+"Nominate" in the Subject and indicate in the email who is being nominated, 
+their email address (to confirm acceptance of the nomination), and the 
+position for which you are making the nomination. If you are nominating 
+someone other than yourself, please tell us if we may tell the nominee that 
+you were the one who made the nomination. If you wish to nominate someone via 
+email for more than one position, please use separate emails to do so. 
+
+Self-nomination is welcome! 
+
+Willing nominees will be asked to fill out a questionnaire specific to the 
+position for which they are nominated. The questionnaires will be available 
+on August 31, 2018 and have a submission deadline of October 5, 2018. 
+
+NomCom 2018-19 will follow the policy for "Open Disclosure of Willing 
+Nominees" described in BCP 10/RFC 7437. As stated in RFC 7437: "The list of 
+nominees willing to be considered for positions under review in the current 
+NomCom cycle is not confidential". Willing nominees for each position will be 
+listed in a publicly accessible way, e.g., anyone with a datatracker account 
+may access the lists. Additionally, the nomination form asks if we may share 
+your own name with the nominee. In all other ways, the confidentiality 
+requirements of BCP 10 remain in effect. All feedback and all NomCom 
+deliberations will remain confidential and will not be disclosed. 
+
+There is a field on the form you can mark in order to allow the NomCom to 
+tell the nominee that you were the one who made the nomination. This defaults 
+to “no” - so if you don't mark the field we won’t tell. 
+
+In order to ensure time to collect sufficient community feedback about each 
+of the willing nominees, nominations must be received by the NomCom on or 
+before September 30, 2018. 
+
+Please submit your nominations as early as possible for the sake of your 
+nominees. Note that nominations should not wait for management permission, as 
+it is easier to decline the nomination than put one in late. 
+
+The NomCom appoints individuals to fill the IETF Chair (IESG General AD) and 
+the open slots on the IAB and the IESG. The IAOC position is not being filled 
+this year, and the call for nominations related to the IETF LLC will be 
+coming in the next few weeks. The list of people and posts whose terms end 
+with the March 2019 IETF meeting, and thus the positions for which this 
+NomCom is responsible, follows: 
+
+IAB 
+   - Jari Arkko
+   - Gabriel Montenegro
+   - Mark Nottingham
+   - Robert Sparks*
+   - Jeff Tantsura
+   - Suzanne Woolf 
+
+IESG Chair
+   - Alissa Cooper, GEN (IETF Chair) 
+
+IESG
+   - Ben Campbell, ART
+   - Terry Manderson, INT *
+   - Warren Kumari, OPS
+   - Deborah Brungard, RTG
+   - Alvaro Retana, RTG
+   - Eric Rescorla, SEC
+   - Spencer Dawkins, TSV * 
+
+*- have indicated that they do not intend to accept a renomination. This 
+information is always up to date on https://datatracker.ietf.org/nomcom/2018/ 
+
+Please be resourceful in identifying possible candidates for these positions, 
+as developing our talent is a very crucial requirement for the IETF, and 
+also, please consider accepting a nomination. You'll find extensive 
+information about specific positions, developed by the IAB and IESG under 
+individual tabs at: 
+
+https://datatracker.ietf.org/nomcom/2018/requirements/ 
+
+In addition to nominations, the NomCom seeks community input on the
+incumbents and the positions themselves. We need and welcome the community's
+views and input on the jobs within each organization. If you have ideas on
+the positions' responsibilities (more, less, different), please let us know. 
+
+Please send suggestions and feedback about this to nomcom-18 at ietf dot org. 
+
+Thank you for your help in identifying qualified nominees! 
+
+regards,
+-scott. 
+
+Scott Mansfield
+scott dot mansfield at ericsson dot com
+nomcom-chair-2018 at ietf dot org 
+

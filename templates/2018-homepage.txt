@@ -1,0 +1,151 @@
+The IETF NomCom 2018
+====================
+
+Contact info:
+
+   - Chair: Scott Mansfield nomcom-chair-2018@ietf.org
+   - Announcements: https://datatracker.ietf.org/ann/nomcom/
+   - To reach the whole NomCom: nomcom-2018@ietf.org
+
+Voting members:
+
+   - Alia Atlas
+   - Carlos Martinez
+   - Dean Bogdanovic
+   - Fernando Gont
+   - Georgios Karagiannis
+   - Marc Blanchet
+   - Ole Jacobsen
+   - Salvatore Loreto
+   - Tianran Zhou
+   - Victor Kuarsingh
+
+Non-Voting members:
+
+   - Chair: Scott Mansfield
+   - Past chair: Peter Yee
+   - IAB Liaison: Melinda Shore
+   - IESG Liaison: Adam Roach
+   - ISOC Board Liaison: Harish Pillay
+   - LLC/IETF Trust Advisor: Lou Berger
+   - IETF Tools Team Advisor: Henrik Levkowetz
+
+Summary of positions to be filled:
+   - IAB: 6 positions
+   - IETF Chair: 1 position
+   - ART AD: 1 position
+   - INT AD: 1 position
+   - OPS AD: 1 position
+   - RTG AD: 2 positions
+   - SEC AD: 1 position
+   - TSV AD: 1 position
+
+To be filled by NomCom, but running on a different timeframe from the positions above:
+
+   - LLC Board Member: 3 positions
+   - IETF Trust: 3 positions
+
+Note:  The NomCom is not filling any IAOC positions.
+
+Details:
+
+Incumbents marked with an asterisk (*) have indicated that they may not accept a nomination for another term.  The list will be updated as the people contact the Nomcom Chair with their preference.
+
+IAOC:  The IAOC has not requested any action from the NomCom at this time.
+
+LLC Board:  IASA2.0 related information forthcoming.  NomCom is anticipating to propose a slate containing 3 persons.  Job Description forthcoming.
+
+   - LLC Board Member
+   - LLC Board Member
+   - LLC Board Member
+
+IAB
+
+   - Jari Arkko
+   - Gabriel Montenegro*
+   - Mark Nottingham
+   - Robert Sparks*
+   - Jeff Tantsura
+   - Suzanne Woolf*
+
+IESG
+
+   - Ben Campbell, ART
+   - Alissa Cooper, GEN (IETF Chair)
+   - Terry Manderson, INT*
+   - Warren Kumari, OPS
+   - Deborah Brungard, RTG
+   - Alvaro Retana, RTG
+   - Eric Rescorla, SEC*
+   - Spencer Dawkins, TSV*
+
+Timeline:
+
+The Nomcom volunteer selection phase:
+
+   - Monday, May 14, 2018: First call for volunteers
+   - Monday, June  4, 2018: Second call for volunteers
+   - Monday, June 11, 2018: Third call for volunteers
+   - Monday, June 18, 2018 at 23:59 UTC: Deadline for volunteering
+   - Tuesday, June 19, 2018: Qualified volunteers announced
+   - Wednesday, June 20, 2018: Input to random selection seeds announced
+   - Tuesday, June 26, 2018 at 23:59 UTC: Deadline for raising issues on the qualified volunteers list
+   - Wednesday, June 27, 2018: Random selection results announced. Challenge period begins
+   - Thursday, July 5, 2018 at 23:59 UTC: Challenge period ends
+   - Friday, July 6, 2018: NomCom membership is now final
+
+The work phase for IAB, IETF Chair, and IESG Area Directors
+
+   - July 14 to July 19, 2018: IETF 102 (Montreal). NomCom agrees on its schedule
+   - Friday, July 27, 2018: NomCom publishes its schedule
+   - Thursday, August 16, 2018: Call for nominations
+   - Friday, August 31, 2018: Questionnaires available for candidates
+   - Sunday, September 30, 2018: Deadline for nominations
+   - Friday, October 5, 2018: Nominee questionnaire deadline
+   - Saturday, October 6, 2018: Call for community feedback
+   - November 3 to November 9, 2018: IETF 103 (Bangkok)
+      - NomCom office hours
+         - Monday 1600-1700
+         - Tuesday 1600-1700
+         - Wednesday 1500-1600
+         - Thursday 1600-1700
+         - Or by appointment (there a number of slots on Wednesday and Thursday open)
+      - Nominee interviews
+      - Friday November 9, 2018: NomCom work day
+   - Friday, November 16, 2018: Deadline for community feedback
+   - Monday, December 17, 2018: The selection process completes and sends
+      slate to confirming body. (NomCom's aspirational date.)
+   - March 23-29, 2019: IETF 104 (Prague) NomCom reports
+
+The work phase for LLC Board Director:
+
+   - Wednesday, August 23, 2018: NomCom Receives Guidance
+   - Wednesday, September 12, 2018: NomCom Call for nominations
+   - Wednesday, September 19, 2018: Questionnaires available for candidates
+   - Wednesday, October 31, 2018: Deadline for nominations
+   - November 3 to November 9, 2018: IETF 103 (Bangkok)
+      - @ Plenary Initiate Call for Community Feedback
+   - Wednesday, November 14, 2018: Nominee questionnaire deadline
+      - Start scheduling eInterviews and reviewing LLC Board Member
+        questionnaires
+   - Wednesday, January 9, 2019: Deadline for community feedback
+   - Wednesday, January 16, 2019: Completed all LLC Board Member eInterviews
+   - Wednesday, February 13, 2019: The LLC Board Member deliberations and the
+      slate process completes and NomCom sends slate to confirming body. (NomCom's aspirational date.)
+   - March 23-29, 2019: IETF 104 (Prague) NomCom reports
+
+The work phase for IETF Trust:
+ - Monday, October 15, 2018: NomCom Receives Guidance
+ - Wednesday, October 17, 2018: NomCom Call for nominations (with job
+   descriptions and questionnaires available)
+ - Wednesday, November 28, 2018: Deadline for nominations
+ - Wednesday, December 5, 2018: Nominee questionnaire deadline
+ - Wednesday, December 5, 2018: Start scheduling eInterview
+ - Wednesday, January 16, 2019: Deadline for community feedback
+ - Wednesday, January 16, 2019: Completed all IETF Trust eInterviews
+ - Wednesday, February 13, 2019: The IETF Trust deliberations and the
+   slate process completes and NomCom sends slate to confirming body.
+   (NomCom's aspirational date.)
+ - March 23-29, 2019: IETF 104 (Prague) NomCom reports
+
+Timeline is subject to update.

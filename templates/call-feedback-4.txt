@@ -1,0 +1,17 @@
+Ask: Feedback for IAB, IETF Chair, and IESG Area Directors
+
+The feedback period for the IAB, IETF Chair and IESG ADs closes on 16 November!
+
+The 2018-19 Nominating Committee has collected a list of willing candidates
+for the positions open this cycle.  You can see the list at
+https://datatracker.ietf.org/nomcom/2018/feedback/
+
+Some of the feedback we are receiving is going to past chairs.  Please make
+sure you are sending feedback using the link above or to nomcom-chair-2018@ietf.org   
+
+regards,
+-scott. 
+
+Scott Mansfield
+scott dot mansfield at ericsson dot com
+nomcom-chair-2018 at ietf dot org 

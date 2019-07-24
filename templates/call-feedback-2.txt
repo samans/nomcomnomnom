@@ -1,0 +1,41 @@
+
+Community Feedback Requested!
+
+Feedback for IAB, IETF Chair, and IESG Area Directors closes on 16 November!
+
+The 2018-19 Nominating Committee has collected a list of willing candidates
+for the positions open this cycle.  You can see the list at
+https://datatracker.ietf.org/nomcom/2018/feedback/
+
+You may provide feedback using the web form there; it is secure.  All web
+feedback goes into the datatracker using asymmetric encryption, which is then
+decrypted by the NomCom members as they read it.  Your feedback can not be
+seen by the secretariat, the tools people, or any of the management.
+
+Your feedback through the web form is not anonymous when shown to NomCom
+members as you need an IETF login to provide it.
+
+If you want to give truly anonymous feedback, please contact one of the
+NomCom members that you trust directly, and ask him/her to relay the feedback
+anonymously to the NomCom.
+
+You can also submit feedback via email to nomcom-chair-2018 at ietf.org and
+I will enter it in the datatracker. One email per candidate, please. Please
+indicate if I should share your identity with the full NomCom.
+
+We will announce office hours in Bangkok shortly.
+
+The positions to be filled and the desired expertise are found here:
+
+https://datatracker.ietf.org/nomcom/2018/
+
+Thank you so much for your feedback - we really value it and appreciate your
+time taken to submit it.
+
+
+regards,
+-scott. 
+
+Scott Mansfield
+scott dot mansfield at ericsson dot com
+nomcom-chair-2018 at ietf dot org 
